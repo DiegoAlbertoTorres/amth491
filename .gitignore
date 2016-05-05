@@ -1,0 +1,6 @@
+*.pdf
+HARPS_LFC
+figs_backup
+paper
+proposal
+.ipynb_checkpoints
